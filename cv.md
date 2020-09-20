@@ -32,3 +32,14 @@ September 2019 - November 2019\
 November 2019 - February 2020\
 [final project]( https://github.com/SokolovskayaAnn/576165-mishka-18)
 
+#### EDUCATION
+- **Master's degree in Information Systems and Technologies**\
+Saint Petersburg Electrotechnical University "LETI"\
+September 2016 - August 2018
+- **Bachelor's degree in Information Systems and Technologies**\
+Saint Petersburg Electrotechnical University "LETI"\
+September 2012 - August 2016
+
+#### LANGUAGES
+- **Russian** - native
+- **English** - Pre-Intermediate
